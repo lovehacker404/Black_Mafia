@@ -60,6 +60,7 @@ def banner ():
 	print (c+fore+"       ■■  ■■ lovehacker  ■■  ■■")
 	print (c+fore+"       ■■  ■■ 03094161457 ■■  ■■")
 	print (c+fore+"       \033[1;47m   \033[1;34mBlack \033[1;30m♡\033[1;35m|\033[1;34m☆\033[1;35m|\033[1;30m♡ \033[1;34mMafia   \033[1;0m     ")
+	print (c+fore+"  ╭━━━━━━━◢◤━━━━╮")
 
 
 
