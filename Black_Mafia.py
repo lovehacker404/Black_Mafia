@@ -47,7 +47,7 @@ norml = "\033[0m"
 def banner ():
 	os.system ("clear")
 	print (" \n ")
-	print (c+fore+"     o        o       o            o")
+	print (c+fore+"     o        o  ▇▇┈┈┈┈╱▔▔▔▔╲┈┈┈┈▇▇     o            o")
 	print (c+fore+"      o      o          o        o")
 	print (c+fore+"       0 ■■ 0             0 ■■ 0")
 	print (c+fore+"       ■■■■■■             ■■■■■■")
