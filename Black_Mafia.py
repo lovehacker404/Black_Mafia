@@ -53,13 +53,12 @@ def banner ():
 	print (c+fore+"       ■■■■■■ BlackMafia  ■■■■■■")
 	print (c+fore+"      ■■"+fore1+"▣"+fore+"■■"+fore1+"▣"+fore+"■■           ■■"+fore2+"◉"+fore+"■■"+fore2+"◉"+fore+"■■")
 	print (c+fore+"     ■■■■■■■■■■         ■■■■■■■■■■")
-	print (c+fore+"  __ __________ __   __ __________ __")
 	print (c+fore+"  ■■ ■■■■■■■■■■ ■■   ■■ ■■■■■■■■■■ ■■")
 	print (c+fore+"  ■■ ■■■■■■■■■■  ■■ ■■  ■■■■■■■■■■ ■■")
 	print (c+fore+"  ■■ ■■■■■■■■■■   ■■■   ■■■■■■■■■■ ■■")
 	print (c+fore+"     ■■■■■■■■■■         ■■■■■■■■■■")
-	print (c+fore+"       ■■  ■■  lovehacker ■■  ■■")
-	print (c+fore+"       ■■  ■■  03094161457■■  ■■")
+	print (c+fore+"       ■■  ■■ lovehacker  ■■  ■■")
+	print (c+fore+"       ■■  ■■ 03094161457 ■■  ■■")
 	print (c+fore+"       \033[1;47m   \033[1;34mBlack \033[1;30m♡\033[1;35m|\033[1;34m☆\033[1;35m|\033[1;30m♡ \033[1;34mMafia   \033[1;0m     ")
 
 
