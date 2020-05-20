@@ -66,6 +66,7 @@ def banner ():
 	print (c+fore3+"               ┃┃┣┫╱╱◢◤╱╱┣━━━┃")
 	print (c+fore3+"               ┃┗┛┗━◢◤┻┻┻┛╱╱╱┃")
 	print (c+fore3+"               ╰━━━◢◤━━━━━━━━╯")
+	print (c+fore2+"      This Tool is For Educational Purpose.")
 
 
 
