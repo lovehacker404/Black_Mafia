@@ -5,7 +5,7 @@
 import os
 import random
 import time
-import Payloads.pld_types as plds
+import pld_types as plds
 
 
 
