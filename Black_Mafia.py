@@ -24,6 +24,7 @@ colors = ["\033[1;33m","\033[1;37m","\033[1;31m", "\033[1;34m", "\033[1;32m"]
 fore = random.choice (colors)
 fore1 = "\033[1;36m"
 fore2 = "\033[1;35m"
+fore3 = "\033[1;31m"
 os.system ("clear")
 
 
@@ -47,20 +48,24 @@ norml = "\033[0m"
 def banner ():
 	os.system ("clear")
 	print (" \n ")
-	print (c+fore+"     o        o       o            o")
-	print (c+fore+"      o      o          o        o")
-	print (c+fore+"       0 ■■ 0             0 ■■ 0")
-	print (c+fore+"       ■■■■■■ BlackMafia  ■■■■■■")
-	print (c+fore+"      ■■"+fore1+"▣"+fore+"■■"+fore1+"▣"+fore+"■■           ■■"+fore2+"◉"+fore+"■■"+fore2+"◉"+fore+"■■")
-	print (c+fore+"     ■■■■■■■■■■         ■■■■■■■■■■")
-	print (c+fore+"  ■■ ■■■■■■■■■■ ■■   ■■ ■■■■■■■■■■ ■■")
-	print (c+fore+"  ■■ ■■■■■■■■■■  ■■ ■■  ■■■■■■■■■■ ■■")
-	print (c+fore+"  ■■ ■■■■■■■■■■   ■■■   ■■■■■■■■■■ ■■")
-	print (c+fore+"     ■■■■■■■■■■         ■■■■■■■■■■")
-	print (c+fore+"       ■■  ■■ lovehacker  ■■  ■■")
-	print (c+fore+"       ■■  ■■ 03094161457 ■■  ■■")
-	print (c+fore+"       \033[1;47m   \033[1;34mBlack \033[1;30m♡\033[1;35m|\033[1;34m☆\033[1;35m|\033[1;30m♡ \033[1;34mMafia   \033[1;0m     ")
-	print (c+fore+"  ╭━━━━━━━◢◤━━━━╮")
+	print (c+fore3+"     o        o       o            o")
+	print (c+fore3+"      o      o          o        o")
+	print (c+fore3+"       0 ■■ 0             0 ■■ 0")
+	print (c+fore3+"       ■■■■■■ BlackMafia  ■■■■■■")
+	print (c+fore3+"      ■■"+fore1+"▣"+fore3+"■■"+fore1+"▣"+fore3+"■■           ■■"+fore2+"◉"+fore3+"■■"+fore2+"◉"+fore3+"■■")
+	print (c+fore3+"     ■■■■■■■■■■         ■■■■■■■■■■")
+	print (c+fore3+"  ■■ ■■■■■■■■■■ ■■   ■■ ■■■■■■■■■■ ■■")
+	print (c+fore3+"  ■■ ■■■■■■■■■■  ■■ ■■  ■■■■■■■■■■ ■■")
+	print (c+fore3+"  ■■ ■■■■■■■■■■   ■■■   ■■■■■■■■■■ ■■")
+	print (c+fore3+"     ■■■■■■■■■■         ■■■■■■■■■■")
+	print (c+fore3+"       ■■  ■■ lovehacker  ■■  ■■")
+	print (c+fore3+"       ■■  ■■ 03094161457 ■■  ■■")
+	print (c+fore3+"       \033[1;47m   \033[1;34mBlack \033[1;30m♡\033[1;35m|\033[1;34m☆\033[1;35m|\033[1;30m♡ \033[1;34mMafia   \033[1;0m     ")
+	print (c+fore3+"               ╭━━━━━━━◢◤━━━━╮")
+	print (c+fore3+"               ┃┏┓┏━━┳◢◤┳┓╱╱╱┃")
+	print (c+fore3+"               ┃┃┣┫╱╱◢◤╱╱┣━━━┃")
+	print (c+fore3+"               ┃┗┛┗━◢◤┻┻┻┛╱╱╱┃")
+	print (c+fore3+"               ╰━━━◢◤━━━━━━━━╯")
 
 
 
