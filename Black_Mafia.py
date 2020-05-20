@@ -47,10 +47,10 @@ norml = "\033[0m"
 def banner ():
 	os.system ("clear")
 	print (" \n ")
-	print (c+fore+"     o        o  ▇▇┈┈┈┈╱▔▔▔▔╲┈┈┈┈▇▇     o            o")
+	print (c+fore+"     o        o       o            o")
 	print (c+fore+"      o      o          o        o")
 	print (c+fore+"       0 ■■ 0             0 ■■ 0")
-	print (c+fore+"       ■■■■■■             ■■■■■■")
+	print (c+fore+"       ■■■■■■ BlackMafia  ■■■■■■")
 	print (c+fore+"      ■■"+fore1+"▣"+fore+"■■"+fore1+"▣"+fore+"■■           ■■"+fore2+"◉"+fore+"■■"+fore2+"◉"+fore+"■■")
 	print (c+fore+"     ■■■■■■■■■■         ■■■■■■■■■■")
 	print (c+fore+"  __ __________ __   __ __________ __")
@@ -58,8 +58,8 @@ def banner ():
 	print (c+fore+"  ■■ ■■■■■■■■■■  ■■ ■■  ■■■■■■■■■■ ■■")
 	print (c+fore+"  ■■ ■■■■■■■■■■   ■■■   ■■■■■■■■■■ ■■")
 	print (c+fore+"     ■■■■■■■■■■         ■■■■■■■■■■")
-	print (c+fore+"       ■■  ■■             ■■  ■■")
-	print (c+fore+"       ■■  ■■             ■■  ■■")
+	print (c+fore+"       ■■  ■■  lovehacker ■■  ■■")
+	print (c+fore+"       ■■  ■■  03094161457■■  ■■")
 	print (c+fore+"       \033[1;47m   \033[1;34mBlack \033[1;30m♡\033[1;35m|\033[1;34m☆\033[1;35m|\033[1;30m♡ \033[1;34mMafia   \033[1;0m     ")
 
 
